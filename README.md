@@ -1,2 +1,2 @@
 # cuddly-enigma
-My solutions to freeCodeCamp Basic Algorithm Problems. 
+My solutions to freeCodeCamp Algorithm Problems. 
